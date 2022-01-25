@@ -1,4 +1,4 @@
-# GNE's Car Mounted GPS Unit
+# GNE's Car Mounted GPS Unit (BETA BRANCH)
 
 ## What's this?
 
